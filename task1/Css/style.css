@@ -1,0 +1,30 @@
+
+body{
+    text-align: center;
+    color: white;
+}
+
+div{
+    background-color: rgb(129, 161, 216);
+    margin: auto;
+    width: 500px;
+    border: solid 2px black;
+    padding: 10px;
+}
+
+img{
+    height: 350px; 
+    width: 400px
+}
+
+h2,label{
+    margin: 5px;
+    padding:2px;
+    background-color: rgb(34, 34, 68);
+    border-radius: 5px;
+}
+
+input{
+    margin: 3px
+}
+
